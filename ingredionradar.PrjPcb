@@ -168,6 +168,87 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=lib\VLS3012HBX-2R2M\VLS3012HBX-2R2M.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for keen_v2_minijig\BOM\Bill of Materials-ingredionradar.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for keen_v2_minijig\NC Drill\ingredionradar.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.G2
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for keen_v2_minijig\Gerber\ingredionradar.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for keen_v2_minijig\NC Drill\ingredionradar.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for keen_v2_minijig\NC Drill\ingredionradar.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for keen_v2_minijig\Pick Place\Pick Place for ingredionradar.txt
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\Altium Libraries\*.*
 IncludeSubFolders=1
