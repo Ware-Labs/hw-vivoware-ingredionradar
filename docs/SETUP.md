@@ -1,6 +1,6 @@
 # Flash and Test
 
-## Setup - Hookup
+## Setup - Hookup For flashing
 
 In order to flash firmware to the STM32 controller onboard the XM125, modifications outlined in the [ERRATA.md](ERRATA.md) are required first. This resuls in the following setup, exposing the BOOT0 pin, the nRST pin, and the VIN line (connected to 3.3V in this case). If VIN = 3.3V, then an FTDI TTL-232R-3V3 cable must be used. If a different VIN is used, the USB<>UART connection should have matching levels.
 
@@ -10,7 +10,7 @@ This setup assumes a 3.3V VIN for now.
 
 After the rework and hookup is complete, connect the 3.3V source (red and black arrows), then connect the FTDI cable to a specially designed programmer cable connecting the UART TX, RX, RTS, CTS, and GND wires to the appropriate pinouts on the PCB.
 
-## Setup - Python Exploration Tool
+## Setup - Flash and Test with Python Exploration Tool
 
 These instructions use the [Acconeer Exploration Tool](https://github.com/acconeer/acconeer-python-exploration) code and instructions
 
@@ -39,3 +39,7 @@ Below are screenshots demonstrating the above
 ![](tool-3.png)
 
 ![](tool-4.png)
+
+## Host Connection
+
+![](host-connection.png)
