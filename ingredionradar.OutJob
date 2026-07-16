@@ -162,7 +162,7 @@ Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\john\Documents\HabitAware\hw-keen2\jig-mini\pcb_v2\keen_v2_minijig.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\johnp\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar_assembly_2026-03-02.pdf
+OutputFilePath2=C:\Users\John\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar_design_2026-07-15.pdf
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for keen_v2_minijig
 OutputPathMedia2=
@@ -173,7 +173,7 @@ OutputPathOutputerValue2=
 OutputFileName2=ingredionradar.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2==ProjectName+'_design_'+CurrentDate+'.pdf'
+OutputFileNameSpecial2==ProjectName+'-REVA_design_'+CurrentDate+'.pdf'
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -189,7 +189,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\johnp\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar.PDF
+OutputFilePath3=C:\Users\John\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar_assembly_2026-07-15.pdf
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for keen_v2_minijig
 OutputPathMedia3=
@@ -200,7 +200,7 @@ OutputPathOutputerValue3=
 OutputFileName3=ingredionradar.PDF
 OutputFileNameMulti3=
 UseOutputNameForMulti3=0
-OutputFileNameSpecial3==ProjectName+'_assembly_'+CurrentDate+'.pdf'
+OutputFileNameSpecial3==ProjectName+'-REVA_assembly_'+CurrentDate+'.pdf'
 OpenOutput3=1
 PromptOverwrite3=1
 PublishMethod3=0
@@ -268,9 +268,9 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\johnp\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar_assembly_2026-03-02.pdf
+RelativeOutputPath2=C:\Users\John\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar_design_2026-07-15.pdf
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\johnp\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar.PDF
+RelativeOutputPath3=C:\Users\John\Documents\ware\hw-vivoware-ingredionradar\Project Outputs for keen_v2_minijig\ingredionradar_assembly_2026-07-15.pdf
 OpenOutputs3=1
 RelativeOutputPath4=
 OpenOutputs4=1
